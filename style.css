@@ -1,0 +1,125 @@
+.gradient {
+    background: linear-gradient( 135deg, rgb(0, 97, 242) 0%, rgb(105, 0, 199) 100% );
+}
+.whitesmoke{
+    background-color: whitesmoke;
+}
+.ex-container{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.custom-shape-divider-bottom-1656689902 {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1656689902 svg {
+    display: block;
+    width: calc(137% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1656689902 .shape-fill {
+    fill: #FFFFFF;
+}
+.custom-shape-divider-top-1656703696 {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1656703696 svg {
+    display: block;
+    width: calc(145% + 1.3px);
+    height: 147px;
+}
+
+.custom-shape-divider-top-1656703696 .shape-fill {
+    fill: #FFFFFF;
+}
+
+@media screen and (max-width: 995px)  {
+
+.build-responsive> h2{
+    font-size: 25px;
+}
+.ex-container{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.contact{
+    padding-bottom: 40px;
+}
+.profit{
+    padding-top: 0%;
+}
+
+}
+@media screen and (max-width: 900px)  {
+    .sponsor{
+        width: 75%;
+    }
+    .col{
+        flex: 70%;
+        padding-top: 60px;
+    }
+    .ex-container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .contact{
+        padding-bottom: 40px;
+    }
+    .profit{
+        padding-top: 0%;
+    }
+
+}
+@media screen and (max-width: 790px)  {
+    .sponsor{
+        width: 75%;
+    }
+
+    .col{
+        flex: 70%;
+        padding-top: 60px;
+    }
+    .ex-container{
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    .contact{
+        padding-bottom: 40px;
+    }
+    .profit{
+        padding-top: 0%;
+    }
+
+}
+
+@media screen and (max-width: 690px)  {
+    .sponsor{
+        width: 75%;
+    }
+
+    .col{
+        flex: 70%;
+        padding-top: 60px;
+    }
+    .ex-container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .contact{
+        padding-bottom: 40px;
+    }
+    
+    .profit{
+        padding-top: 0%;
+    }
+
+}
